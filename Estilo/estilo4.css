@@ -1,0 +1,32 @@
+.quadroAssentos {
+  margin-top: 40px;
+  text-align: center;
+}
+#assento {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-radius: 4px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+}
+#afastar {
+  margin-right: 60px;
+}
+#mensagem {
+  text-align: center;
+  font-size: 40px;
+  width: 1000px;
+  height: 150px;
+  margin-left: 110px;
+  margin-top: 50px;
+  box-sizing: border-box;
+  color: red;
+}
+.selecionada {
+  background-color: red;
+}
+button.assento:hover{
+  background-color: rgb(146, 226, 26);
+  box-shadow: 10px 5px 5px black;
+}

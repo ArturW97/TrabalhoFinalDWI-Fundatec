@@ -1,0 +1,59 @@
+span, label{
+    font-size: 22px;
+    font-weight: bold;
+}
+.mensagem{
+    height: 130px;
+    color: red;
+}
+#instrucao{
+    margin-bottom: 30px;
+}
+#cpf, #dataNascimento, #dataNascimento1, #contatoEmer, #contatoEmer1{
+    margin-left: 80px;
+}
+#cpf1{
+    margin-left: 80px;
+    width:300px;
+    margin-bottom: 10px;
+}
+#nomeCompleto{
+    margin-left: 270px;
+
+}
+#nomeCompleto1{
+    width:741px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+#dataNascimento1{
+    width:300px;
+    margin-bottom: 10px;
+
+}
+#telefone{
+    margin-left: 102px;
+}
+#telefone1{
+    margin-left: 10px;
+    width:360px;
+    margin-bottom: 10px;
+
+}
+#sexo{
+    margin-left: 285px;
+}
+#masculino, #feminino, #outro{
+    margin-left: 15px;
+}
+#contatoEmer1{
+    width: 675px;
+}
+#telefoneEmer{
+    margin-left: 448px;
+}
+#telefoneEmer1{
+    margin-left: 15px;
+    width: 360px;
+}

@@ -1,0 +1,46 @@
+#SubTituloFundo{
+    border: solid;
+    background-color: rgb(177, 175, 175);
+    padding-bottom: 30px;
+}
+#SubTitulo{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#instrucao{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+#localizadorTexto{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 389px;
+    text-transform: uppercase;
+
+}
+#mensagem{
+    text-align: center;
+    font-size: 40px;
+    width:1000px;
+    height: 200px;
+    margin-left: 110px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    color: red;
+}
+#continuar{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 861px;
+    padding-top:20px;
+    padding-left:30px;
+    padding-right:30px;
+    padding-bottom:20px;
+
+}
+#link{
+    width: max-content;
+    height: max-content;
+}

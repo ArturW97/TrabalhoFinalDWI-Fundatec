@@ -1,0 +1,41 @@
+body{
+    margin:5px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.titulo{
+    text-align: center;
+    font-size:20px;
+    background-color: rgb(194, 189, 189);
+    border:solid;
+    border-color:rgb(194, 189, 189);
+}
+.estrutura{
+    border:solid;
+    border-color: rgb(194, 189, 189);
+    height:auto;
+    padding-bottom: 50px;
+}
+h1{
+    font-size: 45px;
+}
+#bemVindo{
+    position: absolute;
+    left: 110px;
+    top: 70px;
+}
+#aviao{
+    margin-left: 295px;
+}
+.tranquilo{
+    font-weight:bold;
+    font-size: 20px;
+    position: absolute;
+    left: 545px;
+    top: 380px;
+}
+#checkIn{
+    margin-left:518px;
+    padding:20px;
+    font-size:20px;
+}

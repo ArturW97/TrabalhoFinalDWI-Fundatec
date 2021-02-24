@@ -1,0 +1,23 @@
+.aviao{
+    width:500px;
+}
+#instrucao, #instrucao1, #instrucao2{
+    font-size: 32px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+#poltrona{
+    text-align: center;
+    margin-left: 562px;
+    border:solid;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    font-size: 45px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+#instrucao2{
+    margin-top: 40px;
+}
